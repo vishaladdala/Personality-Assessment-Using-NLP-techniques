@@ -1,0 +1,36 @@
+Extroverts:
+	1) Uses more hash tags.
+	2) Uses phrases which shows enthusiasm, like "so excited", "can't wait", "so proud".
+	3) More energetic. 
+
+Introverts:
+	1) Introverts tend to complaint.
+	2) Shares memes, images, links to videos and articles.
+
+Sensing:
+	1) Expresses using shortcuts like lol, haha, FTW, yea
+	2) Use more emoticons.
+Intuition:
+	1) meanings, associations. Insight is valued higher than careful observation.
+
+Thinking: 
+	1) Asks more questions.
+Feeling:
+	1) Use more emoticons.
+
+Judging:
+	1) Thrives to gain closures. Completes everything in time.
+Perceiving:
+	1) flexible, late, procrastinates.
+
+People who use common nouns more often in their language tend to be in Extroversion, Intuition, Thinking, or Judging type.
+
+Rules for POS-Tag implementation:
+
+Extroverts: Hashtags, UH
+Introverts: PRP
+Thinking: urls, WP
+Feeling: JJ, JJR, JJS
+Sensing: Emoticons
+Intution: IN, CC
+Judging: RB, RBR, RBS with user mentions
